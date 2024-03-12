@@ -1,0 +1,6 @@
+# rider
+.idea/
+
+# .NET Core build folders
+tracker/bin/
+tracker/obj/

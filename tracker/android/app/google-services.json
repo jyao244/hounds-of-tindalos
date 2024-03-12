@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204364480929",
+    "project_id": "p4p-project-6b843",
+    "storage_bucket": "p4p-project-6b843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204364480929:android:b259f253a17ecb6b030be0",
+        "android_client_info": {
+          "package_name": "com.example.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204364480929-velvhuq5iq34gp20c8gq56jj8008kp1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "xxx" // put your own google api key here
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204364480929-velvhuq5iq34gp20c8gq56jj8008kp1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
