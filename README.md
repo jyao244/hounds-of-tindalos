@@ -16,35 +16,35 @@ Start project
 
 First, user need to open cpolar, login with their account, initiate a tunnel. For example, we have a tunnel called tcp-testing.
 
-![image](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/83f49ba6-1964-4485-918c-a8a3454d1e01)
+![image](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/813e04f4-25e0-4906-9cfd-2388b5528c8a)
  
 Then, go to state and find the public network address of it. For our example, it is tcp://1.tcp.cpolar.io:10606.
 
-![image](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/70ef55ae-39ed-4166-a448-a32b2765e3f8)
+![image](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/efdf71d0-5eb2-429d-aade-01206e5aa7e4)
  
 Then, user need to run “npm i” to install all the required packages and then run “npm run start” to start the backend.
 
-![image](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/188ced2c-c79a-417a-8861-baea64cddeaf)
+![image](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/849f1a75-ebf1-4b27-88b7-16538d0156f2)
  
 Then, user can open the JetBrains Rider IDE and press run to start the middleware.
 
-![image](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/163bcfaf-00d7-4255-8209-fc8aaf000ca1)
+![image](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/66bc08fc-d143-4d78-94a4-2fb985123ea2)
  
 Then, user can open the vscode and open the emulator by using android studio.
 Or, user can press ctrl+shift+p and search “flutter lunch emulator” to start the emulator by vscode.
 
-![image](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/91a3098f-03ef-4591-bb43-f1a43ad609c4)
+![image](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/7e4231fa-2cb0-400e-95b2-7f8bbc8f400c)
 
 Then, user can press “run” and choose “start debugging” to run the app.
 
-![image](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/cb9f861c-6d94-4e39-8f70-3a3622f719bc)
+![image](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/a6405bfd-a7b5-420e-95b2-e8f953ed76dd)
 
 If user want to use it on their phone, they need to go to tracker/lib/utils/global_variables.dart, change line 14 to the public network address described above. For our example, is change to
 
-![image](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/5255bdd9-26da-498b-b8ea-748ed163f602)
+![image](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/8d92bf9f-13d2-4111-a6ed-982b4f340317)
 
 Then, user can connect their mobile phone to computer, click “run” as shown above and choose “start debugging” to install the application on their phone.
 
 Artitecture
 
-![artitecture](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/3374799f-34aa-432a-9f29-3f63c553d879)
+![artitecture](https://github.com/jyao244/hounds-of-tindalos/assets/68982751/ed9227f2-c852-4c9f-9097-4370c36793a7)
